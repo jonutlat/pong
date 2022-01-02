@@ -1,2 +1,3 @@
-My Pong. A simple pong game based on my mazeRunner.
+My Pong. A simple pong game.
+
 
